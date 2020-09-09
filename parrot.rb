@@ -1,5 +1,3 @@
- def print_and_return_name
-   puts "parrot"
-puts "Squawk!, Prettybird!"
-  return ("Squawk!")
+def print_name
+  
 end
