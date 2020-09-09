@@ -1,3 +1,3 @@
-def print_name
+def parrot_name
   
 end
